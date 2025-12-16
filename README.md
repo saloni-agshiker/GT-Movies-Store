@@ -19,20 +19,15 @@ The application is built in Python using the Django framework following the Mode
 ***
 
 ## 📽 Demo
-*Home page*
+
 ![Home Page](images/SS6.png)
 
-*Sign Up page*
 ![Sign Up](images/SS5.png)
 
-*Reset Password page*
 ![Reset Password](images/SS4.png)
 
-*List of Movies page*
 ![List of Movies](images/SS3.png)
 
-*Shopping Cart page*
 ![Shopping Cart](images/SS2.png)
 
-*Admin Interface*
 ![Admin Interface](images/SS1.png)
