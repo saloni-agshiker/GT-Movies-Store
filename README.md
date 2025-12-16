@@ -14,12 +14,13 @@ GT Movie Store is a full-stack web app that enables users to browse, search, and
 
 ## 🛠 How we Built it
 
+The application is built in Python using the Django framework following the Model–Template–View (MTV) architecture. It uses a SQLite database to manage user/admin data and store movie data (images, description, review).
 
 ***
 
 ## 📽 Demo
-![Home Page]()
+![Home Page](images/SS6.png)
 
-![Path Search]()
+![Sign Up](images/SS5.png)
 
-![Adding a Path]()
+![Reset Password](images/SS4.png)
